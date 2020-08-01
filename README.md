@@ -44,7 +44,40 @@ it’s also efficient and thus making it easier to deploy the model
 Model accuracy is 0.99
 
 
+## Report on Model Accuracy
 
+![](Accuracy.JPG)
+
+### Classification report
+
+![](Classisfication_report.JPG)
+
+## Procedure for usage: 
+
+Install Anaconda(Python 3.7) & Tensorflow GPU (I used 1.15 TF)
+
+
+Then Download this Repository via GIT or zip.
+
+
+Already i have trained model and uploded  in my repository as covid_mask_detector.model
+
+
+Now copy covid_mask_detector.model and Covid_FaceMAsk_detect.ipynb 
+
+
+Then copy my files to the local disk were jupyer or anaconda navigator is installed
+
+
+Now run the ipynb file via jupyter it will open your webcam and it will start detection.
+
+## RESULTS 
+
+
+
+
+### For futher Queries contact me at:
+vineeth.artifintell@gmail.com
 
 
 
