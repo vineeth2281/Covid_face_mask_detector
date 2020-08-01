@@ -73,6 +73,9 @@ Now run the ipynb file via jupyter it will open your webcam and it will start de
 
 ## RESULTS 
 
+![](result1.JPG)
+![](result2.JPG)
+
 
 
 
